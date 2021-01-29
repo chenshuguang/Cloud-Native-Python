@@ -1,4 +1,4 @@
-# Test cases for restful API
+# Test cases for restful API run by nosetests in the same folder
 from app import app
 import unittest
 
